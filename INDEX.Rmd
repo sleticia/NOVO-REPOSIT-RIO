@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-author: "Letícia Slodkowski"
+author: "LetÃ­cia Slodkowski"
 date: "7 de junho de 2018"
 output: html_document
 ---
